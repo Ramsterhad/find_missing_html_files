@@ -1,4 +1,4 @@
-# redtails_collect_unknown_ids
+# find_missing_html_files
 
 Have a folder named which contains the to be searched files next to the PHP script:
 ```
